@@ -20,19 +20,19 @@ A Flutter app for Android that connects to a BLE crane scale (WeiHeng WH-C06 com
 
 ### Overview
 
-<img src="docs/screenshots/overview.png" alt="Overview Screen" width="360" />
+<img src="docs/screenshots/overview.png" alt="Overview Screen" width="256" />
 
 ### Device Connection
 
-<img src="docs/screenshots/connection.png" alt="Connection Screen" width="360" />
+<img src="docs/screenshots/connection.png" alt="Connection Screen" width="256" />
 
 ### Live Reading
 
-<img src="docs/screenshots/live-reading.png" alt="Live Reading Screen" width="360" />
+<img src="docs/screenshots/live-reading.png" alt="Live Reading Screen" width="256" />
 
 ### Pull Test
 
-<img src="docs/screenshots/pull-test.png" alt="Pull Test Screen" width="360" />
+<img src="docs/screenshots/pull-test.png" alt="Pull Test Screen" width="256" />
 
 
 ## Tech Stack
